@@ -1,0 +1,9 @@
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe.config
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csprojResolveAssemblyReference.cache
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Form1.resources
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\obj\Debug\Exercise_1.Properties.Resources.resources
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csproj.GenerateResource.Cache
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\obj\Debug\Exercise_1.exe
+F:\Benazir_10_12_2014\Exercise_1\Exercise_1\obj\Debug\Exercise_1.pdb

@@ -1,0 +1,6 @@
+F:\Benazir_10_12_2014\HellowWorldApp\HellowWorldApp\bin\Debug\HellowWorldApp.exe.config
+F:\Benazir_10_12_2014\HellowWorldApp\HellowWorldApp\bin\Debug\HellowWorldApp.exe
+F:\Benazir_10_12_2014\HellowWorldApp\HellowWorldApp\bin\Debug\HellowWorldApp.pdb
+F:\Benazir_10_12_2014\HellowWorldApp\HellowWorldApp\obj\Debug\HellowWorldApp.csprojResolveAssemblyReference.cache
+F:\Benazir_10_12_2014\HellowWorldApp\HellowWorldApp\obj\Debug\HellowWorldApp.exe
+F:\Benazir_10_12_2014\HellowWorldApp\HellowWorldApp\obj\Debug\HellowWorldApp.pdb
